@@ -1,6 +1,6 @@
 # 🌤️ Tanstack Shad Weather App
 
-A sleek and modern weather application with stunning UI, featuring light and dark modes. Track hourly weather forecasts, temperatures, and "feels like" metrics effortlessly. Save your favorite cities and search for others—all built with production-grade practices.
+The Tanstack Shad Weather App combines a user-friendly interface with powerful features like detailed forecasts, city search, favorites, and interactive charts, all backed by a robust technology stack. TanStack Query ensures efficient API interactions, TypeScript guarantees reliability, React powers the dynamic frontend, shadcn and TailwindCSS deliver a polished UI, and Recharts provides insightful visualizations. This combination makes the app both functional and visually appealing, suitable for users seeking a modern weather tracking solution.
 
 ## Screenshot
 
@@ -56,3 +56,4 @@ A big thank you to the following for making this project possible:
 
 
 #
+
