@@ -1,6 +1,10 @@
-# 🌤️ Tanstack Shad Weather App
+# 🌤️ Tanstack Shadcn Weather App
 
-The Tanstack Shad Weather App combines a user-friendly interface with powerful features like detailed forecasts, city search, favorites, and interactive charts, all backed by a robust technology stack. TanStack Query ensures efficient API interactions, TypeScript guarantees reliability, React powers the dynamic frontend, shadcn and TailwindCSS deliver a polished UI, and Recharts provides insightful visualizations. This combination makes the app both functional and visually appealing, suitable for users seeking a modern weather tracking solution.
+The Tanstack Shadcn Weather App combines a user-friendly interface with powerful features like detailed forecasts, city search, favorites, and interactive charts, all backed by a robust technology stack. TanStack Query ensures efficient API interactions, TypeScript guarantees reliability, React powers the dynamic frontend, shadcn and TailwindCSS deliver a polished UI, and Recharts provides insightful visualizations. This combination makes the app both functional and visually appealing, suitable for users seeking a modern weather tracking solution.
+
+## Live Link
+
+https://tanstack-shadcn.netlify.app/
 
 ## Screenshot
 
@@ -37,9 +41,9 @@ Here is a screenshot of the project:
 Follow these steps to set up the project locally:
 
 1. Clone the repository:
-   `git clone https://github.com/SARTHAKHAPPY/tanstack-shad-weather-app.git`
+   `git clone https://github.com/SARTHAKHAPPY/tanstack-shadcn-weather-app.git`
 2. Navigate to project directory:
-   `cd tanstack-shad-weather-app`
+   `cd tanstack-shadcn-weather-app`
 3. Install dependencies:
    `npm install`
 4. Start the development server:
@@ -56,4 +60,7 @@ A big thank you to the following for making this project possible:
 
 
 #
+
+
+
 
